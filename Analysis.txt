@@ -1,0 +1,7 @@
+1. During Winter, significant amount of people ride the Citi Bike at 5pm. 
+
+2. During Summer, the peak times for people who ride the Citi Bike are 12pm and 6pm. 
+
+3. Based on data, top stations for starting journey varies per month. For example, in November, the top station for starting would be Astor Place, where in June, the top station for starting is Exchange Place. 
+
+4. There are more bike trips in June compared in November. 
